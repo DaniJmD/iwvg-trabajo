@@ -5,4 +5,7 @@ public class C1 {
         this.numero = numero;
     }
 
+    public int getNumero() {
+        return numero;
+    }
 }
