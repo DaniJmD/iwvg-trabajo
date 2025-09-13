@@ -4,4 +4,8 @@ public class C1 {
     public C1 (int numero){
         this.numero = numero;
     }
+
+    public int getNumero() {
+        return numero;
+    }
 }
